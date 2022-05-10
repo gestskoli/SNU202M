@@ -1,11 +1,5 @@
 # Fjarstýring - Þrívíddarhönnun
 
-1. [Tinkercad](#þrívíddarhönnun-með-tinkercad)
-   1. [Æfingaverkefni](#æfingaverkefni-í-þrívíddarteikningu)
-2. [Fjarstýringin](#fjarstýring-fyrir-bílinn)
-   1. [Tengimynd](#tengimynd)
-3. [Námsmat](#námsmat)
-
 Í þessu verkefni ætlar þú að hanna hulstu (e. casing) fyrir fjarstýringuna sem þú notar til að stýra bílnum sem þú hefur verið að gera á önninni.
 
 ## Þrívíddarhönnun með Tinkercad
@@ -37,7 +31,7 @@ Eftirfarandi íhlutir þurfa að vera í fjarstýringunni:
 - 9V rafhlaða, þú finnur þrívíða mynd í réttum málum í *Electronics* í Tinkercad.
 - Eftirfarandi íhlutir sem ekki eru til þrívíðar myndir af. Þú þarft því að draga fram skíðmálið og mæla þá:
   - 433MHz sendirinn (ekki gleyma loftnetinu). 
-  - Slökkva/Kveikja rofinn.
+  - Kveikja/Slökkva rofinn.
   - Takkinn til að kveikja á ljósunum.
 - Snúrur til að tengja saman íhlutina.
 - Veróborð fyrir jörð og 5V.
@@ -46,9 +40,12 @@ Eftirfarandi íhlutir þurfa að vera í fjarstýringunni:
 - Fjarstýringin þarf að falla vel í hendi.
   - Hugsaðu um stærð hennar og að notendur hennar meiði sig ekki á henni (passa hvassar brúnir).
 - Hafðu í huga hvernig snúrurnar eigi að komast frá einum íhlut til annars.
+- Hnúðurinn á stýripinnanum ásamt tökkunum þarf að standa út úr hulstrinu.
 - Vertu frumleg(ur) í hönnuninni.
 
 ### Tengimynd
+
+Myndir sýnir hvernig íhlutirnir tengjast.
 
 ![Myndin sýnir hvernig íhlutirnir tengjast](./Myndir/fjarstyring_tengingar.png)
 
@@ -62,4 +59,4 @@ Við mat á verkefninu verður horft til eftirfarandi þátta:
 - Hönnun (50%):
   - Er hönnunin frumleg?
   - Liggur fjarstýringin vel í hendi?
-  - Eru notaðar aðferðir sem ekki hafa verið sýndar í tímanum?
+  - Leggur þú eitthvað nýtt fram, eru notaðar aðferðir sem ekki hafa verið sýndar í tímanum?
